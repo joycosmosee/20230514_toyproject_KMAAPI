@@ -164,6 +164,3 @@
     ?>
 </body>
 </html>
-
-<temp>
-<temp>
